@@ -1,4 +1,4 @@
-# pertemuan10_quiz
+# Static E-Book Store
 
 A new Flutter project.
 
